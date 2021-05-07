@@ -1,1 +1,1 @@
-# Modelagem-de-Sistema-Termodin-mico
+# Modelagem-de-Sistema-Termodinamico
